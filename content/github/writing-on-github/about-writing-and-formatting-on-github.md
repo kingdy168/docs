@@ -1,4 +1,4 @@
----
+www.kingdy1680@gmail.com---
 title: About writing and formatting on GitHub
 intro: GitHub combines a syntax for formatting text called GitHub Flavored Markdown with a few unique writing features.
 redirect_from:
